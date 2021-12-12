@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Experimentation</title>
+</head>
+<body>
+
+<h1 class="header"><header>TEXTO</header></h1>
+<p>
+    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam minima praesentium voluptatibus assumenda labore? Eum magni, labore rerum suscipit quas, error cum possimus excepturi illum animi blanditiis, accusamus non quo?
+</p>
+    <style>
+
+        h1{
+            text-align: center;
+            font: large;
+            font-family: sans-serif;
+            background-color: lightblue;
+            border-radius: 9px;
+            
+        }
+        p {
+            text-align: center;
+            font-size: 19px;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            font-weight: bold;
+            margin-top: 100px;
+            grid-template-rows: max-content;            
+        }
+body {
+    background-image: url(Diseño\ sin\ título.png);
+    background-color: lightsteelblue;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 10000px;
+    marker-end: url(/marker\ end.png)
+
+}  
+img {
+    
+    border-radius: 210px;
+    background-image: url(logo.gif);
+    width: 500px;
+    height: 500px;
+    
+    
+}
+
+</style>
+<img class="img">
+
+</img>
+</body>
+</html>
