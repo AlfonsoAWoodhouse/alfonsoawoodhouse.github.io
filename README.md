@@ -1,3 +1,0 @@
-# Alfonso Algara
-
-## Barcelona Geek
